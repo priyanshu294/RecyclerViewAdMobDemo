@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RecyclerViewAdMobDemo</string>
+    
+    <string-array name="Images">
+        <item>Contact</item>
+        <item>Email</item>
+        <item>Event</item>
+        <item>GenQR</item>
+        <item>Icon</item>
+        <item>Image</item>
+        <item>Location</item>
+        <item>Phone</item>
+        <item>ScanQR</item>
+        <item>Sms</item>
+        <item>Text</item>
+        <item>Url</item>
+        <item>Wifi</item>
+    </string-array>
+
+
+    <string-array name="Images_values">
+        <item>50.5</item>
+        <item>44.6</item>
+        <item>55.6</item>
+        <item>60.0</item>
+        <item>34.5</item>
+        <item>33.5</item>
+        <item>33.7</item>
+        <item>44.5</item>
+        <item>67.8</item>
+        <item>98.7</item>
+        <item>23.5</item>
+        <item>65.4</item>
+        <item>35.7</item>
+    </string-array>
+
+
+
+</resources>
